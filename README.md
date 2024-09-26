@@ -1,6 +1,7 @@
 # Bezier_interpolation
-Matlab code to make a Bezier interpolation, calculate curvature and improve
-A lot of inspiration from this website: https://pomax.github.io/bezierinfo
+Matlab code to make a Bezier interpolation, calculate curvature.
+Still a work in progress, a lot of things to be improved.
+If you want to know more about Bezier: Best github repo /website: https://github.com/pomax/BezierInfo-2 / https://pomax.github.io/bezierinfo
 
 ## BezierFit 
 It interpolates 2D curves with a bunch of known points using Bezier functions.
